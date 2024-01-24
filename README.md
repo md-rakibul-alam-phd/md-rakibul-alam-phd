@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @md-rakibul-alam-phd
-- 👀 I’m interested in research work that matters for society
-- 🌱 I’m currently learning N/A
+- 👀 Previous github page:https://github.com/moon1863
 - 💞️ I’m looking to collaborate with researchers
 - 📫 How to reach me rakibul.alam.mun@gmail.com
 - 😄 Pronouns: he
